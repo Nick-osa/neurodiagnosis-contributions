@@ -50,5 +50,5 @@ FURTHER DETAILS ABOUT THE PROJECT IS ORGANIZED IN THE "experiments" FOLDER
 ## 📬 Contact
 
 Nick Osaghae  
-[LinkedIn](www.linkedin.com/in/nickosaghae)  
+[LinkedIn](https://www.linkedin.com/in/nickosaghae)  
 Email: nickosaghae@gmail.com
